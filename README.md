@@ -1,0 +1,9 @@
+Download Link: https://assignmentchef.com/product/solved-solved-week-1-discussion
+<br>
+Collapse“Hardware Deployment” Please respond to the following:Per the text, when performing a task such as a hardware deployment, checklists can be a valuable tool. Suggest at least three (3) items that you believe should be a part of every installation checklist. Provide a rationale for your response.Compare and contrast the security, user interface, and performance features of Windows 7 and Windows 8.1. From an organizational standpoint, support or challenge the decision to upgrade from Windows 7 to Windows 8.1 based on the available features. Justify your response.
+
+Week 1 Discussion 1
+
+Collapse“Standardization of HTML” Please respond to the following:Explain what is meant by effective HTML code. Decide if all HTML code should be the same (standardized) or at the discretion of the designer. Explain your decision.Explain how standardizing HTML effects accessibility. Describe some of the accessibility issues that Web developers need to keep in mind when designing a Website.”Exploring Website Coding Practices” Please respond to the following:
+
+From the e-Activity, describe what you learned about the Website that you selected by looking at the source code. Analyze the different components of the Website such as the version of HTML that was used, comment tags, and if the head elements were marked, what type of information they contained.From the e-Activity, describe any comments viewed. Determine whether or not they were necessary. Explain how comments should be added into a Web page and provide at least three examples of when comments are appropriate or necessary.
